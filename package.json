@@ -1,0 +1,17 @@
+{
+  "name": "dynamic-images",
+  "version": "1.0.0",
+  "description": "Generate dynamic images with canvas",
+  "main": "server.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "@sudo_overflow",
+  "license": "ISC"
+}
